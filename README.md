@@ -21,9 +21,6 @@
 <img alt="Bootsrap" src="https://img.shields.io/badge/-Bootstrap-5749BE?style=flat-square&logo=Bootstrap&logoColor=white" />
 <img alt="AWS" src="https://img.shields.io/badge/-Amazon AWS-4529AE?style=flat-square&logo=AmazonAWS&logoColor=white" />
 <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-201gdf?style=flat-square&logo=Tensorflow&logoColor=white" />
-<img alt="Pandas" src="https://img.shields.io/badge/-Pandas-4385cd?style=flat-square&logo=Pandas&logoColor=white" />
-<img alt="Keras" src="https://img.shields.io/badge/-Keras-CB1619?style=flat-square&logo=keras&logoColor=white" />
-<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-CC4499?style=flat-square&logo=prettier&logoColor=white" />
 
 
 
