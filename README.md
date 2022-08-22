@@ -4,7 +4,7 @@
 <p>Welcome to my page! </br> I'm Hwisu, Backend developer from <img src="https://cdn-icons-png.flaticon.com/512/330/330591.png" width="13"/>
 <b>Seoul, Korea</b> </p>
 
-<h3>Things I code with</h3>
+<h3>My tech stack 📚</h3>
 <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-F7B93E?style=flat-square&logo=python&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-430098??style=flat-square&logo=javascript&logoColor=white" />
