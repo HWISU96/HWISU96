@@ -1,8 +1,7 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 안녕하세요!</h1>
 
 
-<p>Welcome to my page! </br> I'm Hwisu, Backend developer from <img src="https://cdn-icons-png.flaticon.com/512/330/330591.png" width="13"/>
-<b>Seoul, Korea</b> </p>
+<p>백엔드 개발자 김휘수 입니다 ☺️ 
 
 <h3>My tech stack 📚</h3>
 <p>
