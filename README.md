@@ -20,11 +20,11 @@
 
 
 <p> Front-end.
-<img alt="React" src="https://img.shields.io/badge/-React-9912FF??style=flat-square&logo=react&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-9932FF??style=flat-square&logo=javascript&logoColor=white" />
-<img alt="Jquery" src="https://img.shields.io/badge/-Jquery-8932FF??style=flat-square&logo=jquery&logoColor=white" />
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-7932FF??style=flat-square&logo=html5&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-6932FF??style=flat-square&logo=CSS3&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/-React-5912FF??style=flat-square&logo=react&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-6932FF??style=flat-square&logo=javascript&logoColor=white" />
+<img alt="Jquery" src="https://img.shields.io/badge/-Jquery-7932FF??style=flat-square&logo=jquery&logoColor=white" />
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-8932FF??style=flat-square&logo=html5&logoColor=white" />
+<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-9932FF??style=flat-square&logo=CSS3&logoColor=white" />
  
   
 <p> Etc.
