@@ -1,6 +1,3 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 안녕하세요!</h1>
-
-
 <h3> 백엔드 개발자 김휘수 입니다 ☺️ </h3>
 
 <h4> 📌 Tech Stack </h4>
