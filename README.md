@@ -17,9 +17,12 @@
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13ee39??style=flat-square&logo=mongodb&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-13dd99??style=flat-square&logo=docker&logoColor=white" />
 <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-13dd80??style=flat-square&logo=nginx&logoColor=white" />
+<img alt="AWSEC2" src="https://img.shields.io/badge/-AWS EC2-13dd70??style=flat-square&logo=amazonec2&logoColor=white" />
+<img alt="AWSS3" src="https://img.shields.io/badge/-AWS S3-13dd60??style=flat-square&logo=amazons3&logoColor=white" />
 
 
 <p> Front
+<img alt="React" src="https://img.shields.io/badge/-React-9912FF??style=flat-square&logo=react&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-9932FF??style=flat-square&logo=javascript&logoColor=white" />
 <img alt="Jquery" src="https://img.shields.io/badge/-Jquery-8932FF??style=flat-square&logo=jquery&logoColor=white" />
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-7932FF??style=flat-square&logo=html5&logoColor=white" />
