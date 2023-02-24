@@ -1,9 +1,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 안녕하세요!</h1>
 
 
-<p>백엔드 개발자 김휘수 입니다 ☺️ 
+<h3> 백엔드 개발자 김휘수 입니다 ☺️ </h3>
 
-<h3> 저는 다음과 같은 스택으로 코딩하고 있습니다 </h3>
+<h4> Tech Skill </h4>
+
 <p> Back-end.
 <img alt="Python" src="https://img.shields.io/badge/-Python-111119??style=flat-square&logo=python&logoColor=white" />
 <img alt="Django" src="https://img.shields.io/badge/-Django-112139??style=flat-square&logo=django&logoColor=white" />
