@@ -3,7 +3,7 @@
 
 <h3> 백엔드 개발자 김휘수 입니다 ☺️ </h3>
 
-<h4> Tech Stack </h4>
+<h4> 📌 Tech Stack </h4>
 
 <p> Back-end.
 <img alt="Python" src="https://img.shields.io/badge/-Python-111119??style=flat-square&logo=python&logoColor=white" />
