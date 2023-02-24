@@ -13,6 +13,7 @@
 
   
 <p> Database.
+<img alt="Oracle" src="https://img.shields.io/badge/-Oracle-11ee85??style=flat-square&logo=oracle&logoColor=white" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-11ee80??style=flat-square&logo=postgresql&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-11ee75??style=flat-square&logo=mysql&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13ee70??style=flat-square&logo=mongodb&logoColor=white" />
