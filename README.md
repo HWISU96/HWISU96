@@ -3,10 +3,10 @@
 <h4> 📌 Tech Stack </h4>
 
 <p> Back-end.
-<img alt="Python" src="https://img.shields.io/badge/-Python-111119??style=flat-square&logo=python&logoColor=white" />
-<img alt="Django" src="https://img.shields.io/badge/-Django-112139??style=flat-square&logo=django&logoColor=white" />
-<img alt="DRF" src="https://img.shields.io/badge/-DRF-113139??style=flat-square&logo=django&logoColor=white" />
-<img alt="Flask" src="https://img.shields.io/badge/-Flask-114139??style=flat-square&logo=flask&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-1122ff??style=flat-square&logo=python&logoColor=white" />
+<img alt="Django" src="https://img.shields.io/badge/-Django-1133ff??style=flat-square&logo=django&logoColor=white" />
+<img alt="DRF" src="https://img.shields.io/badge/-DRF-1144ff??style=flat-square&logo=django&logoColor=white" />
+<img alt="Flask" src="https://img.shields.io/badge/-Flask-1155ff??style=flat-square&logo=flask&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-13dd99??style=flat-square&logo=docker&logoColor=white" />
 <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-13dd95??style=flat-square&logo=nginx&logoColor=white" />
 <img alt="AWS" src="https://img.shields.io/badge/-AWS-13dd90??style=flat-square&logo=amazon&logoColor=white" />
