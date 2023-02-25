@@ -8,8 +8,8 @@
 <img alt="DRF" src="https://img.shields.io/badge/-DRF-2160ff??style=flat-square&logo=django&logoColor=white" />
 <img alt="Flask" src="https://img.shields.io/badge/-Flask-2165ff??style=flat-square&logo=flask&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-13dd99??style=flat-square&logo=docker&logoColor=white" />
-<img alt="Nginx" src="https://img.shields.io/badge/-Nginx-13dd95??style=flat-square&logo=nginx&logoColor=white" />
-<img alt="AWS" src="https://img.shields.io/badge/-AWS-13dd90??style=flat-square&logo=amazon&logoColor=white" />
+<img alt="Nginx" src="https://img.shields.io/badge/-Nginx-13dd92??style=flat-square&logo=nginx&logoColor=white" />
+<img alt="AWS" src="https://img.shields.io/badge/-AWS-13dd85??style=flat-square&logo=amazon&logoColor=white" />
 
   
 <p> Database.
