@@ -7,17 +7,17 @@
 <img alt="Django" src="https://img.shields.io/badge/-Django-2155ff??style=flat-square&logo=django&logoColor=white" />
 <img alt="DRF" src="https://img.shields.io/badge/-DRF-2160ff??style=flat-square&logo=django&logoColor=white" />
 <img alt="Flask" src="https://img.shields.io/badge/-Flask-2165ff??style=flat-square&logo=flask&logoColor=white" />
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-13dd99??style=flat-square&logo=docker&logoColor=white" />
-<img alt="Nginx" src="https://img.shields.io/badge/-Nginx-13dd92??style=flat-square&logo=nginx&logoColor=white" />
-<img alt="AWS" src="https://img.shields.io/badge/-AWS-13dd85??style=flat-square&logo=amazon&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-2170ff??style=flat-square&logo=docker&logoColor=white" />
+<img alt="Nginx" src="https://img.shields.io/badge/-Nginx-2175ff??style=flat-square&logo=nginx&logoColor=white" />
+<img alt="AWS" src="https://img.shields.io/badge/-AWS-2180ff??style=flat-square&logo=amazon&logoColor=white" />
 
   
 <p> Database.
-<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-11ee85??style=flat-square&logo=mysql&logoColor=white" />
-<img alt="Oracle" src="https://img.shields.io/badge/-Oracle-11ee80??style=flat-square&logo=oracle&logoColor=white" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-11ee75??style=flat-square&logo=postgresql&logoColor=white" />
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13ee70??style=flat-square&logo=mongodb&logoColor=white" />
-<img alt="Redis" src="https://img.shields.io/badge/-Redis-13ee65??style=flat-square&logo=redis&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-13dd99??style=flat-square&logo=mysql&logoColor=white" />
+<img alt="Oracle" src="https://img.shields.io/badge/-Oracle-13dd92??style=flat-square&logo=oracle&logoColor=white" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-13dd85??style=flat-square&logo=postgresql&logoColor=white" />
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13dd78??style=flat-square&logo=mongodb&logoColor=white" />
+<img alt="Redis" src="https://img.shields.io/badge/-Redis-13dd72??style=flat-square&logo=redis&logoColor=white" />
 
 
 <p> Front-end.
