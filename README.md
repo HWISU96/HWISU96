@@ -37,3 +37,4 @@
 <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-F99852??style=flat-square&logo=ubuntu&logoColor=white" />
 <img alt="VS Code" src="https://img.shields.io/badge/-VS Code-F99902??style=flat-square&logo=visualstudiocode&logoColor=white" />
 <img alt="Pycharm" src="https://img.shields.io/badge/-Pycharm-F99952??style=flat-square&logo=pycharm&logoColor=white" />
+<img alt="linux" src="https://img.shields.io/badge/-Linux-F99952??style=flat-square&logo=linux&logoColor=white" />
