@@ -35,5 +35,3 @@
 <img alt="Slack" src="https://img.shields.io/badge/-Slack-F97532??style=flat-square&logo=slack&logoColor=white" />
 <img alt="Figma" src="https://img.shields.io/badge/-Figma-F98032??style=flat-square&logo=figma&logoColor=white" />
 <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-F99852??style=flat-square&logo=ubuntu&logoColor=white" />
-<img alt="VS Code" src="https://img.shields.io/badge/-VS Code-F99902??style=flat-square&logo=visualstudiocode&logoColor=white" />
-<img alt="Pycharm" src="https://img.shields.io/badge/-Pycharm-F99952??style=flat-square&logo=pycharm&logoColor=white" />
