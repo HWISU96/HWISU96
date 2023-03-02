@@ -31,7 +31,7 @@
 <p> Etc.
 <img alt="git" src="https://img.shields.io/badge/-Git-F95032??style=flat-square&logo=git&logoColor=white" />
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-F96032??style=flat-square&logo=github&logoColor=white" />
-<img alt="Notion" src="https://img.shields.io/badge/-Notion-F97032??style=flat-square&logo=notion&logoColor=white" />
-<img alt="Slack" src="https://img.shields.io/badge/-Slack-F97532??style=flat-square&logo=slack&logoColor=white" />
-<img alt="Figma" src="https://img.shields.io/badge/-Figma-F98032??style=flat-square&logo=figma&logoColor=white" />
-<img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-F99852??style=flat-square&logo=ubuntu&logoColor=white" />
+<img alt="Notion" src="https://img.shields.io/badge/-Notion-F96532??style=flat-square&logo=notion&logoColor=white" />
+<img alt="Slack" src="https://img.shields.io/badge/-Slack-F97032??style=flat-square&logo=slack&logoColor=white" />
+<img alt="Figma" src="https://img.shields.io/badge/-Figma-F97532??style=flat-square&logo=figma&logoColor=white" />
+<img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-F98032??style=flat-square&logo=ubuntu&logoColor=white" />
