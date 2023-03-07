@@ -9,7 +9,7 @@
   
 <p> Database.
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-13dd99??style=flat-square&logo=mysql&logoColor=white" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-13dd85??style=flat-square&logo=postgresql&logoColor=white" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-13dd89??style=flat-square&logo=postgresql&logoColor=white" />
 
 
 <p> Front-end.
