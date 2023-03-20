@@ -20,4 +20,4 @@
   
 <p> Etc.
 <img alt="git" src="https://img.shields.io/badge/-Git-F95032??style=flat-square&logo=git&logoColor=white" />
-<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-F96532??style=flat-square&logo=github&logoColor=white" />
+<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-F96032??style=flat-square&logo=github&logoColor=white" />
