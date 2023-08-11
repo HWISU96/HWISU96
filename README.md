@@ -7,7 +7,7 @@
 <img alt="Django" src="https://img.shields.io/badge/-Django-2160ff??style=flat-square&logo=django&logoColor=white" />
   
 <p> Database.
-<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-13dd99??style=flat-square&logo=mysql&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-13dd79??style=flat-square&logo=mysql&logoColor=white" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-13dd89??style=flat-square&logo=postgresql&logoColor=white" />
 
 
