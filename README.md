@@ -4,7 +4,7 @@
 
 <p> Back-end.
 <img alt="Python" src="https://img.shields.io/badge/-Python-2150ff??style=flat-square&logo=python&logoColor=white" />
-<img alt="Django" src="https://img.shields.io/badge/-Django-2160ff??style=flat-square&logo=django&logoColor=white" />
+<img alt="Django" src="https://img.shields.io/badge/-Django-2165ff??style=flat-square&logo=django&logoColor=white" />
   
 <p> Database.
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-13dd79??style=flat-square&logo=mysql&logoColor=white" />
