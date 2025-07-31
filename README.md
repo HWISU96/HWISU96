@@ -3,8 +3,8 @@
 <h4> 📌 Tech Stack </h4>
 
 <p> Back-end.
-<img alt="Python" src="https://img.shields.io/badge/-Python-2150ff??style=flat-square&logo=python&logoColor=white" />
-<img alt="Django" src="https://img.shields.io/badge/-Django-2160ff??style=flat-square&logo=django&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/-Java-2150ff??style=flat-square&logo=java&logoColor=white" />
+<img alt="Spring" src="https://img.shields.io/badge/-Spring-2160ff??style=flat-square&logo=spring&logoColor=white" />
   
 <p> Database.
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-13dd79??style=flat-square&logo=mysql&logoColor=white" />
