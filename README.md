@@ -20,3 +20,14 @@
 <p> Etc.
 <img alt="git" src="https://img.shields.io/badge/-Git-F95032??style=flat-square&logo=git&logoColor=white" />
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-F96032??style=flat-square&logo=github&logoColor=white" />
+
+
+<h3> GitAnimals <h3>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=HWISU96&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/HWISU96"
+  width="600"
+  height="300"
+/>
+</a>
+  
