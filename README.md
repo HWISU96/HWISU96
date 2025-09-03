@@ -20,9 +20,16 @@
 <p> Etc.
 <img alt="git" src="https://img.shields.io/badge/-Git-F95032??style=flat-square&logo=git&logoColor=white" />
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-F96032??style=flat-square&logo=github&logoColor=white" />
+  
+<br>
+<div align="start">
+  <a href="https://solved.ac/soshyzx123">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=soshyzx123" alt="Solved.ac Profile" />
+  </a>
+</div>
+<br>
 
-
-<br><br>
+<br>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=HWISU96&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/HWISU96"
@@ -31,10 +38,4 @@
 />
 </a>
 
-<br>
-<div align="start">
-  <a href="https://solved.ac/soshyzx123">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=soshyzx123" alt="Solved.ac Profile" />
-  </a>
-</div>
-<br><br>
+
