@@ -22,11 +22,9 @@
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-F96032??style=flat-square&logo=github&logoColor=white" />
   
 <br>
-<div align="start">
-  <a href="https://solved.ac/soshyzx123">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=soshyzx123" alt="Solved.ac Profile" />
-  </a>
-</div>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=soshyzx123)](https://solved.ac/soshyzx123)
 <br>
 
 <br>
@@ -37,5 +35,6 @@
   height="300"
 />
 </a>
+
 
 
