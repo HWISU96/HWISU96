@@ -4,7 +4,7 @@
 
 <p> Back-end.
 <img alt="Java" src="https://img.shields.io/badge/-Java-2150ff??style=flat-square&logo=java&logoColor=white" />
-<img alt="Spring" src="https://img.shields.io/badge/-Spring-2170ff??style=flat-square&logo=spring&logoColor=white" />
+<img alt="Spring" src="https://img.shields.io/badge/-Spring-2171ff??style=flat-square&logo=spring&logoColor=white" />
 <img alt="Springboot" src="https://img.shields.io/badge/-Springboot-2190ff??style=flat-square&logo=springboot&logoColor=white" />
   
 <p> Database.
