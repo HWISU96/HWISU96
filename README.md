@@ -13,10 +13,7 @@
 <p> Front-end.
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-6932FF??style=flat-square&logo=javascript&logoColor=white" />
 <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-7932FF??style=flat-square&logo=vue.js&logoColor=white" />
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-8932FF??style=flat-square&logo=html5&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-9932FF??style=flat-square&logo=CSS3&logoColor=white" />
  
-  
 <p> Etc.
 <img alt="git" src="https://img.shields.io/badge/-Git-F95032??style=flat-square&logo=git&logoColor=white" />
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-F96032??style=flat-square&logo=github&logoColor=white" />
