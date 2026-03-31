@@ -2,13 +2,13 @@
 <h4> 📌 Tech Stack </h4>
 
 <p> Back-end.
-<img alt="Java" src="https://img.shields.io/badge/-Java-2150ff??style=flat-square&logo=java&logoColor=white" />
-<img alt="Springboot" src="https://img.shields.io/badge/-Springboot-2190ff??style=flat-square&logo=springboot&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/-Java-13dd89??style=flat-square&logo=java&logoColor=white" />
+<img alt="Springboot" src="https://img.shields.io/badge/-Springboot-13dd99??style=flat-square&logo=springboot&logoColor=white" />
   
 <p> Database.
-<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-13dd79??style=flat-square&logo=postgreSQL&logoColor=white" />
-<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-13dd89??style=flat-square&logo=mysql&logoColor=white" />
-<img alt="Redis" src="https://img.shields.io/badge/-Redis-13dd99??style=flat-square&logo=redis&logoColor=white" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-2160ff??style=flat-square&logo=postgreSQL&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-2170ff??style=flat-square&logo=mysql&logoColor=white" />
+<img alt="Redis" src="https://img.shields.io/badge/-Redis-2180ff??style=flat-square&logo=redis&logoColor=white" />
  
 <p> Inf.
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-F96032??style=flat-square&logo=docker&logoColor=white" />
