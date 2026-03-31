@@ -3,19 +3,16 @@
 
 <p> Back-end.
 <img alt="Java" src="https://img.shields.io/badge/-Java-2150ff??style=flat-square&logo=java&logoColor=white" />
-<img alt="Spring" src="https://img.shields.io/badge/-Spring-2171ff??style=flat-square&logo=spring&logoColor=white" />
 <img alt="Springboot" src="https://img.shields.io/badge/-Springboot-2190ff??style=flat-square&logo=springboot&logoColor=white" />
   
 <p> Database.
-<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-13dd79??style=flat-square&logo=mysql&logoColor=white" />
-
-<p> Front-end.
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-6932FF??style=flat-square&logo=javascript&logoColor=white" />
-<img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-8932FF??style=flat-square&logo=vue.js&logoColor=white" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-13dd79??style=flat-square&logo=postgreSQL&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-13dd89??style=flat-square&logo=mysql&logoColor=white" />
+<img alt="Redis" src="https://img.shields.io/badge/-Redis-13dd99??style=flat-square&logo=redis&logoColor=white" />
  
 <p> Inf.
-<img alt="git" src="https://img.shields.io/badge/-Git-F95032??style=flat-square&logo=git&logoColor=white" />
-<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-F96032??style=flat-square&logo=github&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-F96032??style=flat-square&logo=docker&logoColor=white" />
+<img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-F96042??style=flat-square&logo=jenkins&logoColor=white" />
   
 <br>
 
