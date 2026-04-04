@@ -10,7 +10,7 @@
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-2170ff??style=flat-square&logo=mysql&logoColor=white" />
 <img alt="Redis" src="https://img.shields.io/badge/-Redis-2180ff??style=flat-square&logo=redis&logoColor=white" />
  
-<p> Inf.
+<p> Infra/Tools.
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-F96032??style=flat-square&logo=docker&logoColor=white" />
 <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-F96042??style=flat-square&logo=jenkins&logoColor=white" />
   
